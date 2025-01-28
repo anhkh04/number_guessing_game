@@ -10,7 +10,7 @@ int main()
     char choice;
     cout << "Welcome to the number-guessing game!" << endl;
     cout << "The number is between 0 and 20. Can you guess it (UwU) ?" << endl;
-    cout << "Rule: You only have 5 times to guess! Use it wisely and have fun!" << endl;
+    cout << "Rule: You only have 5 guesses! Use them wisely and have fun!" << endl;
     cout << "===================================================================" << endl;
     do
     {
